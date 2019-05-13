@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Python Packages | Wesley Rogers</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+				    <!--#include virtual="included/header_content.html" -->
+                </header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2>Public Python Packages</h2>
+						<p></p>
+					</header>
+					<div class="box">
+						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+						<div class="row">
+                            <div class="row-6 row-12-mobilep">
+                                <h3>booleantools</h3>
+							    <p>
+                                    A toolkit for working with boolean functions
+                                    in an object-oriented way. Includes functions
+                                    such as the Walsh transform, application of
+                                    permutations, and correlation immunity. In
+                                    addition, boolean tools includes tools for
+                                    working with cellular automata and finite 
+                                    fields.
+                                </p>
+                                <p>
+                                    Upcoming features include vector operations
+                                    and increased testing, along with the eventual
+                                    release of version 1.0.
+                                </p>
+                                <p>
+                                    The code for the booleantools package is available
+                                    <a href="">on my Github</a>. Feel free to report
+                                    issues, add tests, and create pull requests.
+                                </p>
+                            </div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+				    <!--#include virtual="included/footer_content.html" -->
+                </footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

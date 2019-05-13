@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Publications and Presentations | Wesley Rogers</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+				    <!--#include virtual="included/header_content.html" -->
+                </header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2>Publications and Presentations</h2>
+						<p></p>
+					</header>
+					<div class="box">
+						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+						<div class="row">
+                            <div class="row-6 row-12-mobilep">
+                                <h3>Publications</h3>
+							    <div>
+                                    <h4><a href="http://libjournal.uncg.edu/ncjms/article/view/1637">The booleantools package: an open-source python framework for boolean functions</a></h4>
+                                    <p>
+                                        Boolean functions are crucial in the design 
+                                        of secure cryptographic algorithms. We introduce 
+                                        booleantools , an open-source Python package 
+                                        for the analysis and design of boolean functions. 
+                                        As an example of the software’s functionality, 
+                                        we show how it can be used to find geometric 
+                                        information about the space of all boolean 
+                                        functions on 5 variables.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row-6 row-12-mobilep">
+								<h3>Presentations</h3>
+                                <div>
+                                    <h4>The Geometry of Boolean Functions on Five Variables</h4>
+                                    <h5>Abstract</h5>
+                                    <p>
+                                        Modern Cryptography is dependent on boolean functions for security.
+                                        In order to be a suitable candidate for cryptographic use, 
+                                        a function must be both resilient and nonlinear.
+                                        We verified the existence of 8 classes of 2-resilient 
+                                        boolean functions on 5 variables.
+                                        Using a Python library of our creation, 
+                                        we defined the diameter and minimal non-zero distance 
+                                        between the boolean functions of interest. 
+                                        Additionally, we defined the Hausdorff Distance 
+                                        between all 28 combinations of these functions. 
+                                        We also identified several other interesting 
+                                        characteristics of these boolean functions 
+                                        and their applications to Cryptography and 
+                                        other fields, and produced a Python library 
+                                        to assist in the finding of additional 
+                                        functions with similar characteristics.
+                                    </p>
+                                </div>
+                            </div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+				    <!--#include virtual="included/footer_content.html" -->
+                </footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
