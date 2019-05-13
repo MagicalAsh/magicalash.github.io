@@ -1,4 +1,0 @@
-DirectoryIndex index.html index.shtml
-Options +Includes
-AddType text/html .shtml
-AddOutputFilter INCLUDES .shtml
