@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.5)  19 AUG 2019 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.11)  2 JAN 2020 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,7 +980,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--131
 (./WesleyRogers.aux) ) 
 Here is how much of TeX's memory you used:
  17209 strings out of 494584
- 314144 string characters out of 6177774
+ 314144 string characters out of 6177773
  431009 words of memory out of 5000000
  20570 multiletter control sequences out of 15000+600000
  21070 words of font info for 40 fonts, out of 8000000 for 9000
@@ -991,7 +991,7 @@ c}</usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on WesleyRogers.pdf (1 page, 92067 bytes).
+Output written on WesleyRogers.pdf (1 page, 91948 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
