@@ -280,7 +280,7 @@
                                                 database management systems, database design,
                                                 SQL, and basic non-relational databases.
                                             </td>
-                                            <td></td>
+                                            <td>A</td>
                                         </tr>
                                         <tr>
                                             <td>Operating Systems</td>
@@ -289,13 +289,62 @@
                                                 properties of the operating system, and process
                                                 communication.
                                             </td>
-                                            <td></td>
+                                            <td>A</td>
                                         </tr>
                                         <tr>
                                             <td>Statistical Methods II</td>
                                             <td>
                                                 An advanced introduction to timeseries
                                                 and regression analysis.
+                                            </td>
+                                            <td>A</td>
+                                        </tr>
+                                    </tbody>
+                                    <tfoot>
+                                    </tfoot>
+                                </table>
+                                <h4>Fall, 2019</h4>
+							    <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Class Name</th>
+                                            <th>Description</th>
+                                            <th>Final Grade</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Linux Tools</td>
+                                            <td>
+                                                An introduction to some basic and advanced
+                                                linux tools, including perl, sed, awk, and
+                                                a multitude of other tools.
+                                            </td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Professional Ethics in Computing</td>
+                                            <td>
+                                                A class discussing basic theories of ethics,
+                                                the concepts of ethics, and included several
+                                                debates.
+                                            </td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Computer Science Capstone I</td>
+                                            <td>
+                                                See <a>here</a> for a detailed description of
+                                                my capstone project.
+                                            </td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Math Capstone</td>
+                                            <td>
+                                                A course covering formal presentations, writing,
+                                                and a variety of proof based topics presented 
+                                                by students.
                                             </td>
                                             <td></td>
                                         </tr>

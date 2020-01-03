@@ -48,6 +48,22 @@
                                     to enable tracing of database calls and other internal,
                                     non-microservice calls.
                                 </p>
+                                <h4>Experience from Summer 2019</h4>
+                                <p>
+                                    The summer of 2019 was again working with Eric Bourn
+                                    in the SAS Viya mid-tier platform. I worked with tools
+                                    such as the Spring Framework, Jira, Docker, as well as
+                                    several different message brokers such as RabbitMQ,
+                                    Qpid, and ActiveMQ Artemis.
+                                </p>
+                                <p>
+                                    For the summer of 2019 my project was to build a prototype
+                                    to ensure that the messaging model used in SAS Viya was
+                                    compatible with brokers other than RabbitMQ. This involved
+                                    analyzing and rewriting most of the eventing code in such a
+                                    way that users of the framework would not be affected, while
+                                    the internals were changed entirely. 
+                                </p>
 							</div>
                             <div class="row-6 row-12-mobilep">
 								<h3>Western Carolina University (Fall 2016 - Spring 2020)</h3>
